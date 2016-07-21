@@ -6,14 +6,11 @@ The [Data Science Specialization] (http://www.coursera.org/specializations/jhu-d
 
 I decided to enroll in this Specialization as a **independent an personal goal** with the main objective of build the foundations to enroll in a formal Graduate Course (a Master Program) in the near future.
 
-I **enroll** on **October 2015** and **finish the Capstone Project** on **July 2016**. The Data Science Specialization include nine (9) courses and a final Capstone Project. 
+I **enroll** on **October 2015** and **finish the Capstone Project** on **July 2016**. The Data Science Specialization include nine (9) courses and a final Capstone Project:
 
-As an example of my work 
-
-
-
-
-* The Data Scientist’s Toolbox (Jeff Leek)
+* [The Data Scientist’s Toolbox] (https://www.coursera.org/course/datascitoolbox)
+-- A
+- A
 
 * R Programming (Roger Peng)
  
@@ -32,6 +29,15 @@ As an example of my work
 * Developing Data Products (Brian Caffo)
 
 * Data Science Capstone
+
+
+
+As an example of my work 
+
+
+
+
+
 
 
 For more information about this Specialization, please go to [Coursera](http://www.coursera.org/specializations/jhu-data-science) site.
