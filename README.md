@@ -10,9 +10,10 @@ I decided to enroll in this Specialization as a **independent an personal goal**
 
 I **enroll** on **October 2015** and **finish the Capstone Project** on **July 2016**, this is the list of the courses and some examples of my work on it:
 
-1. [The Data Scientist’s Toolbox] (https://www.coursera.org/course/datascitoolbox) 
-  * A
-  * B
+1. [The Data Scientist’s Toolbox] (https://www.coursera.org/course/datascitoolbox): a basic introduction to the tools. 
+  * Date: October 2015
+  * Certified: 
+  * 
 
 2. [R Programming] (https://www.coursera.org/course/rprog)
  
