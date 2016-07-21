@@ -8,27 +8,27 @@ I decided to enroll in this Specialization as a **independent an personal goal**
 
 I **enroll** on **October 2015** and **finish the Capstone Project** on **July 2016**. The Data Science Specialization include nine (9) courses and a final Capstone Project:
 
-* [The Data Scientist’s Toolbox] (https://www.coursera.org/course/datascitoolbox)
--- A
-- A
+1. [The Data Scientist’s Toolbox] (https://www.coursera.org/course/datascitoolbox) 
+  * A
+  * B
 
-* R Programming (Roger Peng)
+2. [R Programming] (https://www.coursera.org/course/rprog)
  
-* Getting and Cleaning Data (Jeff Leek)
+3. Getting and Cleaning Data (Jeff Leek)
  
-* Exploratory Data Analysis (Jeff Leek)
+4. Exploratory Data Analysis (Jeff Leek)
  
-* Reproducible Research (Roger Peng)
+5. Reproducible Research (Roger Peng)
  
-* Statistical Inference (Brian Caffo)
+6. Statistical Inference (Brian Caffo)
  
-* Regression Models (Brian Caffo)
+7. Regression Models (Brian Caffo)
  
-* Practical Machine Learning (Roger Peng)
+8. Practical Machine Learning (Roger Peng)
 
-* Developing Data Products (Brian Caffo)
+9. Developing Data Products (Brian Caffo)
 
-* Data Science Capstone
+10. Data Science Capstone
 
 
 
