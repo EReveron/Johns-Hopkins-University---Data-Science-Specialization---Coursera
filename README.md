@@ -3,6 +3,10 @@ This repository include examples of my work related with the **Data Science Spec
 
 The [Data Science Specialization] (http://www.coursera.org/specialization/jhudatascience) include nine (9) courses and a final Capstone Project. The courses are taught by professors Brian Caffo, PhD, Jeff Leek, PhD, and Roger Peng, PhD, of the Bloomberg School’s Department of Biostatistics. 
 
+I decided to enroll in this Specialization as a independent an personal goal with the main objective of build the foundations to enroll in a formal Graduate Course (a Master Program) in the near future.
+
+I started on October 2015 and finish the Capstone Project on July 2016.    
+
 
 
 The Data Scientist’s Toolbox (Jeff Leek)
