@@ -1,7 +1,7 @@
 # Johns Hopkins University - Data Science Specialization - Coursera
 This repository include examples of my work related with the **Data Science Specialization** from **Johns Hopkins University** thought **Coursera**. 
 
-The [Data Science Specialization] (http://www.coursera.org/specialization/jhudatascience) include nine (9) courses and a final Capstone Project. The courses are taught by professors Brian Caffo, PhD, Jeff Leek, PhD, and Roger Peng, PhD, of the [Bloomberg School’s Department of Biostatistics] (http://www.jhsph.edu/news/news-releases/2014/coursera-specialization.html). 
+The [Data Science Specialization] (http://www.coursera.org/specialization/jhudatascience) include nine (9) courses and a final Capstone Project. The courses are taught by professors [Brian Caffo, PhD](http://www.linkedin.com/in/roger-peng-6b39a095), [Jeff Leek, PhD] (http://www.linkedin.com/in/jtleek), and [Roger Peng, PhD] (http://www.linkedin.com/in/roger-peng-6b39a095), of the [Bloomberg School’s Department of Biostatistics] (http://www.jhsph.edu/news/news-releases/2014/coursera-specialization.html). 
 
 I decided to enroll in this Specialization as a independent an personal goal with the main objective of build the foundations to enroll in a formal Graduate Course (a Master Program) in the near future.
 
