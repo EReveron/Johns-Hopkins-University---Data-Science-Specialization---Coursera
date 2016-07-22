@@ -1,10 +1,7 @@
 
 
-![](bsph.png)
-
-![](coursera.png)
-
-![](Coursera datascitoolbox 2016.pdf)
+![](bsph_coursera.png)
+    
 
 # Johns Hopkins University #
 # Data Science Specialization - Coursera #
