@@ -1,8 +1,5 @@
-
-
-<center>![](bsph_coursera.png)
-    
-
+<center>
+![](bsph_coursera.png)
 # Johns Hopkins University #
 # Data Science Specialization - Coursera #
 </center>
@@ -20,6 +17,9 @@ I **enroll** on **October 2015** and **finish the Capstone Project** on **July 2
 1. [**The Data Scientist's Toolbox**] (https://www.coursera.org/course/datascitoolbox): this course provide an introduction to the main tools and ideas in the data scientist's toolbox. The course gives an overview of the data, questions, and tools that data analysts and data scientists work with. There are two components to this course. The first is a conceptual introduction to the ideas behind turning data into actionable knowledge. The second is a practical introduction to the tools that will be used in the program like version control, markdown, git, GitHub, R, and RStudio.
   * Date: October 2015
   * [Certified] (https://www.coursera.org/account/accomplishments/certificate/GUDDUXPCXU)
+  * Examples of work:
+	  * Test
+	  * 
 
 2. [**R Programming**] (http://www.coursera.org/course/rprog): this course covers practical issues in statistical computing which includes programming in R, reading data into R, accessing R packages, writing R functions, debugging, profiling R code, and organizing and commenting R code. Topics in statistical data analysis will provide working examples.
 
@@ -34,6 +34,11 @@ I **enroll** on **October 2015** and **finish the Capstone Project** on **July 2
 7. [**Regression Models**] (https://www.coursera.org/learn/regression-models): this course covers regression analysis, least squares and inference using regression models. Special cases of the regression model, ANOVA and ANCOVA was covered as well. Analysis of residuals and variability are investigated. The course cover modern thinking on model selection and novel uses of regression models including scatterplot smoothing.
  
 8. [**Practical Machine Learning**] (https://www.coursera.org/learn/practical-machine-learning): this course cover the basic components of building and applying prediction functions with an emphasis on practical applications. The course provide basic grounding in concepts such as training and tests sets, overfitting, and error rates. The course also introduce a range of model based and algorithmic machine learning methods including regression, classification trees, Naive Bayes, and random forests. The course cover the complete process of building prediction functions including data collection, feature creation, algorithms, and evaluation.
+
+  * Date: October 2015
+  * [Certified] (https://www.coursera.org/account/accomplishments/certificate/33K67L4ATBER)
+
+
 
 9. [**Developing Data Products**] (https://www.coursera.org/learn/data-products): this course covers the basics of creating data products using Shiny, R packages, and interactive graphics. The course focus on the statistical fundamentals of creating a data product that can be used to tell a story about data to a mass audience.
 
