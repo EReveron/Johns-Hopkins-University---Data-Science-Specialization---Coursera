@@ -16,25 +16,32 @@ I decided to enroll in this Specialization as a **independent an personal goal**
 
 I **enroll** on **October 2015** and **finish the Capstone Project** on **July 2016**, this is the list of the courses and some examples of my work on it:
 
-1. [The Data Scientist's Toolbox] (https://www.coursera.org/course/datascitoolbox): an introduction to the main tools and ideas in the data scientist's toolbox. The course gives an overview of the data, questions, and tools that data analysts and data scientists work with.
+1. [**The Data Scientist's Toolbox**] (https://www.coursera.org/course/datascitoolbox): this course provide an introduction to the main tools and ideas in the data scientist's toolbox. The course gives an overview of the data, questions, and tools that data analysts and data scientists work with. There are two components to this course. The first is a conceptual introduction to the ideas behind turning data into actionable knowledge. The second is a practical introduction to the tools that will be used in the program like version control, markdown, git, GitHub, R, and RStudio.
+
 
   * Date: October 2015
   * [Certified] (https://www.coursera.org/account/accomplishments/certificate/GUDDUXPCXU)
 
-2. [R Programming] (https://www.coursera.org/course/rprog)
- 
-3. Getting and Cleaning Data (Jeff Leek)
- 
-4. Exploratory Data Analysis (Jeff Leek)
- 
-5. Reproducible Research (Roger Peng)
- 
-6. Statistical Inference (Brian Caffo)
- 
-7. Regression Models (Brian Caffo)
- 
-8. Practical Machine Learning (Roger Peng)
+2. [R Programming] (https://www.coursera.org/course/rprog): this course covers practical issues in statistical computing which includes programming in R, reading data into R, accessing R packages, writing R functions, debugging, profiling R code, and organizing and commenting R code. Topics in statistical data analysis will provide working examples.
 
-9. Developing Data Products (Brian Caffo)
+ 
+ 
+  
+ 
+3. Getting and Cleaning Data (Jeff Leek): this course cover the basic ways that data can be obtained. The course cover obtaining data from the web, from APIs, from databases and from colleagues in various formats. It also cover the basics of data cleaning and how to make data “tidy”. The course also cover the components of a complete data set including raw data, processing instructions, codebooks, and processed data. The course cover the basics needed for collecting, cleaning, and sharing data.
+ 
+4. Exploratory Data Analysis (Jeff Leek): this course covers the essential exploratory techniques for summarizing data. The course cover in detail the plotting systems in R as well as some of the basic principles of constructing data graphics. Also cover some of the common multivariate statistical techniques used to visualize high-dimensional data.
+ 
+5. Reproducible Research (Roger Peng): this course focuses on the concepts and tools behind reporting modern data analyses in a reproducible manner. This course focus on literate statistical analysis tools which allow one to publish data analyses in a single document that allows others to easily execute the same analysis to obtain the same results.
+ 
+6. Statistical Inference (Brian Caffo): this course covers the fundamentals of inference in a practical approach for getting things done. 
+ 
+7. Regression Models (Brian Caffo): this course covers regression analysis, least squares and inference using regression models. Special cases of the regression model, ANOVA and ANCOVA was covered as well. Analysis of residuals and variability are investigated. The course cover modern thinking on model selection and novel uses of regression models including scatterplot smoothing.
+ 
+8. Practical Machine Learning (Roger Peng): this course cover the basic components of building and applying prediction functions with an emphasis on practical applications. The course provide basic grounding in concepts such as training and tests sets, overfitting, and error rates. The course also introduce a range of model based and algorithmic machine learning methods including regression, classification trees, Naive Bayes, and random forests. The course cover the complete process of building prediction functions including data collection, feature creation, algorithms, and evaluation.
 
-10. [Data Science Capstone] (https://www.coursera.org/learn/data-science-project)(seven weeks long natural language processing capstone project offered in collaboration with SwiftKey)
+9. Developing Data Products (Brian Caffo): this course covers the basics of creating data products using Shiny, R packages, and interactive graphics. The course focus on the statistical fundamentals of creating a data product that can be used to tell a story about data to a mass audience.
+
+10. [Data Science Capstone] (https://www.coursera.org/learn/data-science-project): seven weeks long Natural Language Processing (NLP) Capstone Project offered in collaboration with [SwiftKey] (https://www.swiftkey.com).
+
+
