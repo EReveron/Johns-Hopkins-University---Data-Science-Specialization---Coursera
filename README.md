@@ -44,4 +44,6 @@ I **enroll** on **October 2015** and **finish the Capstone Project** on **July 2
 
 10. [**Data Science Capstone**] (https://www.coursera.org/learn/data-science-project): Natural Language Processing (NLP) Capstone Project offered in collaboration with [SwiftKey] (https://www.swiftkey.com).
 
+![](Coursera-ALL.jpg)
+
 
