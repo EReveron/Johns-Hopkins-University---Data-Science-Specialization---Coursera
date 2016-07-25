@@ -81,7 +81,9 @@ I **started** on **September 2015** and **finish the Capstone Project** on **Jul
   * Date: 04/20/2016
   * [Verified Certificate] (https://www.coursera.org/account/accomplishments/verify/F3BJGXH3F9BB)
   * Examples of my work:
-	  * Test
+	  * [**ITU-T Explore App Presentation on RPubs**](http://rpubs.com/EReveron/ITUT_Explore-App)
+	  * [**ITU-T Explore Shiny App on Shinyapps**](https://ereveron.shinyapps.io/ITUT-Explore_App)
+	  * [**Source Code on Github**](https://github.com/EReveron/ITUT_Explore-App)
 
 10. [**Data Science Capstone**] (https://www.coursera.org/learn/data-science-project): Natural Language Processing (NLP) Capstone Project offered in collaboration with [SwiftKey] (https://www.swiftkey.com).
   * Date: 07/18/2016
@@ -92,7 +94,7 @@ I **started** on **September 2015** and **finish the Capstone Project** on **Jul
 	  * [**Final Test Report**](http://rpubs.com/EReveron/capstone-final-test): this report shows the output of the step by step process to process and create the probability tables to be used with Shiny Apps.
 	  * [**Shiny App: Predictor! Presentation**](http://rpubs.com/EReveron/capstone-predictor-presentation): this is a presentation about the Shiny App: Predictor!.
 	  * [**Shiny App: Precitor!**](http://ereveron.shinyapps.io/Predictor): this is the Shiny App that makes prediction of the next word based on **Kneser-ney Smoothing Algorithm**.
-	  * [**Github Repo with Source Code**]()
+	  * [**Github Repo with Source Code**](https://github.com/EReveron/Coursera—Data-Science—Capstone-Project)
 
 ![](Coursera-ALL.jpg)
 
