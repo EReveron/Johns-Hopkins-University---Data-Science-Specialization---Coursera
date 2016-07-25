@@ -89,12 +89,12 @@ I **started** on **September 2015** and **finish the Capstone Project** on **Jul
   * Date: 07/18/2016
   * [Verified Certificate] (https://www.coursera.org/account/accomplishments/verify/ZSH3XQCNG74L)
   * Examples of my work:
-	  * [**Milestone Exploratory Data Analysis Report**](http://rpubs.com/EReveron/capstone-milestone): this report provide the results of a initial exploratory data analysis of the dataset including ngrams plots.
-	  * [**Final Report**](http://rpubs.com/EReveron/capstone-final): this report provide the detail information about the different considerations/assumptions taken to create the final Shiny App: **Predictor!**. Also include a detail information about **Kneser-ney Smoothing Algorithm**.
-	  * [**Final Test Report**](http://rpubs.com/EReveron/capstone-final-test): this report shows the output of the step by step process to process and create the probability tables to be used with Shiny Apps.
-	  * [**Shiny App: Predictor! Presentation**](http://rpubs.com/EReveron/capstone-predictor-presentation): this is a presentation about the Shiny App: Predictor!.
-	  * [**Shiny App: Precitor!**](http://ereveron.shinyapps.io/Predictor): this is the Shiny App that makes prediction of the next word based on **Kneser-ney Smoothing Algorithm**.
-	  * [**Github Repo with Source Code**](https://github.com/EReveron/Coursera—Data-Science—Capstone-Project)
+	  * [**Milestone Exploratory Data Analysis Report on RPubs**](http://rpubs.com/EReveron/capstone-milestone): this report provide the results of a initial exploratory data analysis of the dataset including ngrams plots.
+	  * [**Final Report on RPubs**](http://rpubs.com/EReveron/capstone-final): this report provide the detail information about the different considerations/assumptions taken to create the final Shiny App: **Predictor!**. Also include a detail information about **Kneser-ney Smoothing Algorithm**.
+	  * [**Final Test Report on RPubs**](http://rpubs.com/EReveron/capstone-final-test): this report shows the output of the step by step process to process and create the probability tables to be used with Shiny Apps.
+	  * [**Shiny App: Predictor! Presentation on RPubs**](http://rpubs.com/EReveron/capstone-predictor-presentation): this is a presentation about the Shiny App: Predictor!.
+	  * [**Shiny App: Precitor! on Shinyapps**](http://ereveron.shinyapps.io/Predictor): this is the Shiny App that makes prediction of the next word based on **Kneser-ney Smoothing Algorithm**.
+	  * [**Source Code on Github**](https://github.com/EReveron/Coursera—Data-Science—Capstone-Project)
 
 ![](Coursera-ALL.jpg)
 
