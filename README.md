@@ -34,27 +34,24 @@ I **started** on **September 2015** and **finish the Capstone Project** on **Jul
   * Date: 10/31/2015
   * [Verified Certificate] (https://www.coursera.org/account/accomplishments/certificate/CUEFT983QU)
   * Examples of my work:
-	  * [**Data Course Project** on GitHub](https://github.com/EReveron/Getting-Cleaning-Data-Course-Project): this project request to use the *Human Activity Recognition Using Smartphones Dataset* to do:
-	  	* 1. Merges the training and the test sets to create one data set.
-	  	* 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
-	  	* 3. Uses descriptive activity names to name the activities in the data set
-	  	* 4. Appropriately labels the data set with descriptive variable names. 
-	  	* 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-	  * 
-
-
+	  * [**Data Course Project** on GitHub](https://github.com/EReveron/Getting-Cleaning-Data-Course-Project): this project request to use the *Human Activity Recognition Using Smartphones Dataset* to do some tipycal operations like: merges the training and the test sets, extracts only some specific measurements, use descriptive activity names to name the activities in the data set, appropriately labels the data set with descriptive variable names and create a tidy dataset with the average of each variable for each activity and each subject.
+	  
 4. [**Exploratory Data Analysis**] (https://www.coursera.org/learn/exploratory-data-analysis): this course covers the essential exploratory techniques for summarizing data. The course cover in detail the plotting systems in R as well as some of the basic principles of constructing data graphics. Also cover some of the common multivariate statistical techniques used to visualize high-dimensional data.
   * Date: 11/28/2015
   * [Verified Certificate] (https://www.coursera.org/account/accomplishments/certificate/WGNHR4G3ZF)
   * Examples of my work:
-	  * [**US Wheather Events Impact on Population Health and Economy Report** on RPubs](http://rpubs.com/EReveron/repdata-peerassessment2)
+	  * [**Project 2** on GitHub](https://github.com/EReveron/Coursera-Exploratory-Data-Analysis-Course-Project-2): this project request to make several plots using basic and ggplot library in order to answer specific questions like: 
+	  	* *Question: Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?* 	
+	  	* *Question: Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions?*
+	  
+
  
 5. [**Reproducible Research**] (https://www.coursera.org/learn/reproducible-research): this course focuses on the concepts and tools behind reporting modern data analyses in a reproducible manner. This course focus on literate statistical analysis tools which allow one to publish data analyses in a single document that allows others to easily execute the same analysis to obtain the same results.
   * Date: 01/02/2016
   * [Verified Certificate] (https://www.coursera.org/account/accomplishments/certificate/WL87GV3B24)
   * Examples of my work:
-	  * Test
-	  * 
+	  * [**US Wheather Events Impact on Population Health and Economy Report** on RPubs](http://rpubs.com/EReveron/repdata-peerassessment2): this is a report that use the data of U.S. National Oceanic and Atmospheric Administration's (NOAA) to evaluate the Economic and Population Impact (Fatalities and Injuries) of all the weather events in the U.S. from 1950 and end in November 2011.
+	  * [**US Wheather Events Impact on Population Health and Economy Report** on GitHub] (https://github.com/EReveron/RepData_PeerAssessment2)
  
 6. [**Statistical Inference**] (https://www.coursera.org/learn/statistical-inference): this course covers the fundamentals of inference in a practical approach for getting things done. 
   * Date: 02/03/2016
