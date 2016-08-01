@@ -20,9 +20,7 @@ I **started** on **September 2015** and **finish the Capstone Project** on **Jul
 1. [**The Data Scientist's Toolbox**] (https://www.coursera.org/course/datascitoolbox): this course provide an introduction to the main tools and ideas in the data scientist's toolbox. The course gives an overview of the data, questions, and tools that data analysts and data scientists work with. There are two components to this course. The first is a conceptual introduction to the ideas behind turning data into actionable knowledge. The second is a practical introduction to the tools that will be used in the program like version control, markdown, git, GitHub, R, and RStudio.
   * Date: from 09/07/2015 to 10/03/2015
   * [Verified Certificate] (https://www.coursera.org/account/accomplishments/certificate/GUDDUXPCXU)
-  * Examples of my work:
-	  * Test
-	  * 
+ 
 
 2. [**R Programming**] (http://www.coursera.org/course/rprog): this course covers practical issues in statistical computing which includes programming in R, reading data into R, accessing R packages, writing R functions, debugging, profiling R code, and organizing and commenting R code. Topics in statistical data analysis will provide working examples.
   * Date: 10/31/2015
@@ -77,10 +75,6 @@ I **started** on **September 2015** and **finish the Capstone Project** on **Jul
   * [Verified Certificate] (https://www.coursera.org/account/accomplishments/certificate/33K67L4ATBER)
   * Examples of my work:
 	  * [**Machine Learning - Prediction Assigment** on RPubs](http://rpubs.com/EReveron/machine-learning-pred):  In this report we use the data about personal movement using activity monitoring devices (*Fitbit, Nike Fuelband, or Jawbone Up*) in order to predict the *classe* variable (the manner in which they did the exercise) in the training set.
-
-
-  
-
 
 
 9. [**Developing Data Products**] (https://www.coursera.org/learn/data-products): this course covers the basics of creating data products using Shiny, R packages, and interactive graphics. The course focus on the statistical fundamentals of creating a data product that can be used to tell a story about data to a mass audience.
