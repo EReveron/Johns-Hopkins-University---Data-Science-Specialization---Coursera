@@ -74,7 +74,7 @@ I **started** on **September 2015** and **finish the Capstone Project** on **Jul
   * Date: 03/29/2016
   * [Verified Certificate] (https://www.coursera.org/account/accomplishments/certificate/33K67L4ATBER)
   * Examples of my work:
-	  * [**Machine Learning - Prediction Assigment** on RPubs](http://rpubs.com/EReveron/machine-learning-pred):  In this report we use the data about personal movement using activity monitoring devices (*Fitbit, Nike Fuelband, or Jawbone Up*) in order to predict the *classe* variable (the manner in which they did the exercise) in the training set.
+	  * [**Machine Learning - Prediction Assigment** on GitHub Pages](https://ereveron.github.io/Machine-Learning---Prediction-Assigment):  In this report we use the data about personal movement using activity monitoring devices (*Fitbit, Nike Fuelband, or Jawbone Up*) in order to predict the *classe* variable (the manner in which they did the exercise) in the training set.
 
 
 9. [**Developing Data Products**] (https://www.coursera.org/learn/data-products): this course covers the basics of creating data products using Shiny, R packages, and interactive graphics. The course focus on the statistical fundamentals of creating a data product that can be used to tell a story about data to a mass audience.
