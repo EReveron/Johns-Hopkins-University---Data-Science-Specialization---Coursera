@@ -34,7 +34,12 @@ I **started** on **September 2015** and **finish the Capstone Project** on **Jul
   * Date: 10/31/2015
   * [Verified Certificate] (https://www.coursera.org/account/accomplishments/certificate/CUEFT983QU)
   * Examples of my work:
-	  * Test
+	  * [**Data Course Project** on GitHub](https://github.com/EReveron/Getting-Cleaning-Data-Course-Project): this project request to use the *Human Activity Recognition Using Smartphones Dataset* to do:
+	  	* 1. Merges the training and the test sets to create one data set.
+	  	* 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
+	  	* 3. Uses descriptive activity names to name the activities in the data set
+	  	* 4. Appropriately labels the data set with descriptive variable names. 
+	  	* 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 	  * 
 
 
