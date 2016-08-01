@@ -18,11 +18,11 @@ I **started** on **September 2015** and **finish the Capstone Project** on **Jul
 
 
 1. [**The Data Scientist's Toolbox**] (https://www.coursera.org/course/datascitoolbox): this course provide an introduction to the main tools and ideas in the data scientist's toolbox. The course gives an overview of the data, questions, and tools that data analysts and data scientists work with. There are two components to this course. The first is a conceptual introduction to the ideas behind turning data into actionable knowledge. The second is a practical introduction to the tools that will be used in the program like version control, markdown, git, GitHub, R, and RStudio.
-  * [Verified Certificate] (https://www.coursera.org/account/accomplishments/certificate/GUDDUXPCXU) / Date: 10/06/2015
+  * [Verified Certificate] (https://www.coursera.org/account/accomplishments/certificate/GUDDUXPCXU) , Date: 10/06/2015
  
 
 2. [**R Programming**] (http://www.coursera.org/course/rprog): this course covers practical issues in statistical computing which includes programming in R, reading data into R, accessing R packages, writing R functions, debugging, profiling R code, and organizing and commenting R code. Topics in statistical data analysis will provide working examples.
-  * [Verified Certificate] (https://www.coursera.org/account/accomplishments/certificate/58B69YSWNK) / Date: 10/31/2015
+  * [Verified Certificate] (https://www.coursera.org/account/accomplishments/certificate/58B69YSWNK) , Date: 10/31/2015
   * Examples of my work:
 	  * [**Programming Assigment 2** on GitHub](https://github.com/EReveron/ProgrammingAssignment2): This second programming assignment require to write an R function that is able to cache potentially time-consuming computations.
 
