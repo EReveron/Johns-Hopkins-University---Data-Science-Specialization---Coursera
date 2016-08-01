@@ -60,22 +60,25 @@ I **started** on **September 2015** and **finish the Capstone Project** on **Jul
   * Date: 02/03/2016
   * [Verified Certificate] (https://www.coursera.org/account/accomplishments/certificate/99A5J49HZHC7)
   * Examples of my work:
-	  * [**Statistical Inference - Part 1** on RPubs](http://rpubs.com/EReveron/statistical-inference-part1): This report include statistics simulations to compare the Exponential Distribution in R and the Central Limit Theorem. We use R in order to make some statistics simulations and compare it with the theorical values for some special values like mean, variance and distribution.
+	  * [**Statistical Inference - Part 1** on RPubs](http://rpubs.com/EReveron/statistical-inference-part1): This report include statistics simulations to compare the *Exponential Distribution in R* and the *Central Limit Theorem*. We use R in order to make some statistics simulations and compare it with the theorical values for some special values like mean, variance and distribution.
 	  * [**Statistical Inference - Part 2** on RPubs](http://rpubs.com/EReveron/148290): This report use the *ToothGrowth* data in the R *datasets* package in order to do: a basic exploratory data analyses, a basic summary of the data, use confidence intervals and/or hypothesis tests to compare tooth growth by supp and dose; and finally provide conclusions and the assumptions needed for those conclusions.
  
 7. [**Regression Models**] (https://www.coursera.org/learn/regression-models): this course covers regression analysis, least squares and inference using regression models. Special cases of the regression model, ANOVA and ANCOVA was covered as well. Analysis of residuals and variability are investigated. The course cover modern thinking on model selection and novel uses of regression models including scatterplot smoothing.
   * Date: 03/02/2016
   * [Verified Certificate] (https://www.coursera.org/account/accomplishments/certificate/KTRH3JAL73C5)
   * Examples of my work:
-	  * Test
-	  * 
+	  * [**Automatic or Manual Transmission: Which is the best regarding miles per gallon (MPG)?** on RPubs](http://rpubs.com/EReveron/regresion-models): In this report we use a data set of a collection of cars in order to to answer the following two questions:
+	  	* *Is an automatic or manual transmission better for MPG?*
+	  	* *Quantify the MPG difference between automatic and manual transmissions?*
  
 8. [**Practical Machine Learning**] (https://www.coursera.org/learn/practical-machine-learning): this course cover the basic components of building and applying prediction functions with an emphasis on practical applications. The course provide basic grounding in concepts such as training and tests sets, overfitting, and error rates. The course also introduce a range of model based and algorithmic machine learning methods including regression, classification trees, Naive Bayes, and random forests. The course cover the complete process of building prediction functions including data collection, feature creation, algorithms, and evaluation.
 
   * Date: 03/29/2016
   * [Verified Certificate] (https://www.coursera.org/account/accomplishments/certificate/33K67L4ATBER)
   * Examples of my work:
-	  * Test
+	  * [**Machine Learning - Prediction Assigment** on RPubs](http://rpubs.com/EReveron/machine-learning-pred):  In this report we use the data about personal movement using activity monitoring devices (*Fitbit, Nike Fuelband, or Jawbone Up*) in order to predict the *classe* variable (the manner in which they did the exercise) in the training set.
+
+
   
 
 
