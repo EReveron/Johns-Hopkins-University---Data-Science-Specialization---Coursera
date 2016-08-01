@@ -28,8 +28,7 @@ I **started** on **September 2015** and **finish the Capstone Project** on **Jul
   * Date: 10/31/2015
   * [Verified Certificate] (https://www.coursera.org/account/accomplishments/certificate/58B69YSWNK)
   * Examples of my work:
-	  * Test
-	  * 
+	  * [**Programming Assigment 2** on GitHub](https://github.com/EReveron/ProgrammingAssignment2): This second programming assignment require to write an R function that is able to cache potentially time-consuming computations.
 
 3. [**Getting and Cleaning Data**] (https://www.coursera.org/learn/data-cleaning): this course cover the basic ways that data can be obtained. The course cover obtaining data from the web, from APIs, from databases and from colleagues in various formats. It also cover the basics of data cleaning and how to make data “tidy”. The course also cover the components of a complete data set including raw data, processing instructions, codebooks, and processed data. The course cover the basics needed for collecting, cleaning, and sharing data.
   * Date: 10/31/2015
@@ -82,7 +81,7 @@ I **started** on **September 2015** and **finish the Capstone Project** on **Jul
   * Examples of my work:
 	  * [**ITU-T Explore App Presentation** on RPubs](http://rpubs.com/EReveron/ITUT_Explore-App)
 	  * [**ITU-T Explore Shiny App** on Shinyapps](https://ereveron.shinyapps.io/ITUT-Explore_App)
-	  * [**Source Code** on Github](https://github.com/EReveron/ITUT_Explore-App)
+	  * [**Source Code** on GitHub](https://github.com/EReveron/ITUT_Explore-App)
 
 10. [**Data Science Capstone**] (https://www.coursera.org/learn/data-science-project): Natural Language Processing (NLP) Capstone Project offered in collaboration with [SwiftKey] (https://www.swiftkey.com).
   * Date: 07/18/2016
@@ -93,7 +92,7 @@ I **started** on **September 2015** and **finish the Capstone Project** on **Jul
 	  * [**Final Test Report** on RPubs](http://rpubs.com/EReveron/capstone-final-test): this report shows the output of the step by step process to process and create the probability tables to be used with Shiny Apps.
 	  * [**Shiny App: Predictor! Presentation** on RPubs](http://rpubs.com/EReveron/capstone-predictor-presentation): this is a presentation about the Shiny App: Predictor!.
 	  * [**Shiny App: Precitor!** on Shinyapps](http://ereveron.shinyapps.io/Predictor): this is the Shiny App that makes prediction of the next word based on **Kneser-ney Smoothing Algorithm**.
-	  * [**Source Code** on Github](https://github.com/EReveron/Coursera—Data-Science—Capstone-Project)
+	  * [**Source Code** on GitHub](https://github.com/EReveron/Coursera—Data-Science—Capstone-Project)
 
 ![](Coursera-ALL.jpg)
 
