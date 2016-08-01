@@ -41,8 +41,8 @@ I **started** on **September 2015** and **finish the Capstone Project** on **Jul
   * [Verified Certificate] (https://www.coursera.org/account/accomplishments/certificate/WGNHR4G3ZF)
   * Examples of my work:
 	  * [**Project 2** on GitHub](https://github.com/EReveron/Coursera-Exploratory-Data-Analysis-Course-Project-2): this project request to make several plots using basic and ggplot library in order to answer specific questions like: 
-	  	* *Question: Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?* 	
-	  	* *Question: Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions?*
+	  	* *Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?*
+	  	* *Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions?*
 	  
 
  
@@ -50,7 +50,8 @@ I **started** on **September 2015** and **finish the Capstone Project** on **Jul
   * Date: 01/02/2016
   * [Verified Certificate] (https://www.coursera.org/account/accomplishments/certificate/WL87GV3B24)
   * Examples of my work:
-	  * [**US Wheather Events Impact on Population Health and Economy Report** on RPubs](http://rpubs.com/EReveron/repdata-peerassessment2): this is a report that use the data of U.S. National Oceanic and Atmospheric Administration's (NOAA) to evaluate the Economic and Population Impact (Fatalities and Injuries) of all the weather events in the U.S. from 1950 and end in November 2011.
+  * 	
+  	 * [**US Wheather Events Impact on Population Health and Economy Report** on RPubs](http://rpubs.com/EReveron/repdata-peerassessment2): this is a report that use the data of U.S. National Oceanic and Atmospheric Administration's (NOAA) to evaluate the Economic and Population Impact (Fatalities and Injuries) of all the weather events in the U.S. from 1950 and end in November 2011.
 	  * [**US Wheather Events Impact on Population Health and Economy Report** on GitHub] (https://github.com/EReveron/RepData_PeerAssessment2)
  
 6. [**Statistical Inference**] (https://www.coursera.org/learn/statistical-inference): this course covers the fundamentals of inference in a practical approach for getting things done. 
