@@ -43,8 +43,7 @@ I **started** on **September 2015** and **finish the Capstone Project** on **Jul
   * Date: 11/28/2015
   * [Verified Certificate] (https://www.coursera.org/account/accomplishments/certificate/WGNHR4G3ZF)
   * Examples of my work:
-	  * Test
-	  * 
+	  * [**US Wheather Events Impact on Population Health and Economy Report** on RPubs](http://rpubs.com/EReveron/repdata-peerassessment2)
  
 5. [**Reproducible Research**] (https://www.coursera.org/learn/reproducible-research): this course focuses on the concepts and tools behind reporting modern data analyses in a reproducible manner. This course focus on literate statistical analysis tools which allow one to publish data analyses in a single document that allows others to easily execute the same analysis to obtain the same results.
   * Date: 01/02/2016
@@ -81,9 +80,9 @@ I **started** on **September 2015** and **finish the Capstone Project** on **Jul
   * Date: 04/20/2016
   * [Verified Certificate] (https://www.coursera.org/account/accomplishments/verify/F3BJGXH3F9BB)
   * Examples of my work:
-	  * [**ITU-T Explore App Presentation on RPubs**](http://rpubs.com/EReveron/ITUT_Explore-App)
-	  * [**ITU-T Explore Shiny App on Shinyapps**](https://ereveron.shinyapps.io/ITUT-Explore_App)
-	  * [**Source Code on Github**](https://github.com/EReveron/ITUT_Explore-App)
+	  * [**ITU-T Explore App Presentation** on RPubs](http://rpubs.com/EReveron/ITUT_Explore-App)
+	  * [**ITU-T Explore Shiny App** on Shinyapps](https://ereveron.shinyapps.io/ITUT-Explore_App)
+	  * [**Source Code** on Github](https://github.com/EReveron/ITUT_Explore-App)
 
 10. [**Data Science Capstone**] (https://www.coursera.org/learn/data-science-project): Natural Language Processing (NLP) Capstone Project offered in collaboration with [SwiftKey] (https://www.swiftkey.com).
   * Date: 07/18/2016
