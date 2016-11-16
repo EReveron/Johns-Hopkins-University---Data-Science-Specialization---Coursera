@@ -98,4 +98,6 @@ I **started** on **September 2015** and **finish the Capstone Project** on **Jul
 
 ![](Coursera-ALL.jpg)
 
+@ Enrique Reveron 16-Nov-2016
+
 
